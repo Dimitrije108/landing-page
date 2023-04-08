@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.hero {
+    background: #1F2937;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border: none;
+    padding: 8px 28px;
+    font-size: 16px;
+    font-weight: 800;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    background-color: #E5E7EB;
+    color: #3882F6;
+}
+
+.inspirational {
+    background-color: #E5E7EB;
+}
+
+.quoted {
+    font-size: 36px;
+    font-style: italic;
+}
+
+img {
+    height: auto;
+    width: 200px;
+}
+
